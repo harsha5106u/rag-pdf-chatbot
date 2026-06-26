@@ -21,6 +21,4 @@ An AI-powered chatbot that answers questions from any PDF document using Retriev
 1. Clone the repo
 2. Install dependencies: `pip install -r requirements.txt`
 3. Add your Google API key in `.env` file as `GOOGLE_API_KEY=your_key`
-4. Run: `streamlit run chatbotai.py`git add README.md
-git commit -m "Add README"
-git push
+4. Run: `streamlit run chatbotai.py`
